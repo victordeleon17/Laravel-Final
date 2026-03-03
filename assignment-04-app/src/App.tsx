@@ -24,7 +24,7 @@
             <div className="mt-6 grid gap-4 sm:grid-cols-3">
               <Card title="Tiempo hoy" value="2h 15m" sub="Enfocado" />
               <Card title="Pomodoros" value="5" sub="Completados" />
-              <Card title="Racha" value="7 días" sub="Constante" />
+              <Card title="Racha semanal" value="7 días" sub="Constante" />
             </div>
 
             <div className="mt-6 rounded-2xl bg-black/20 p-5">
